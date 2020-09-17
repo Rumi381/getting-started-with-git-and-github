@@ -240,11 +240,15 @@ Now you will be promted to enter the ssh key passphrase, enter it and thats it. 
 
 This section will demonstrste the most common workflow of git to start a git repository.
 
-<div class="embed-responsive embed-responsive-16by9">
+<!-- <div class="embed-responsive embed-responsive-16by9">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div>
+</div> -->
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uR6G2v_WsRA&list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu&index=54&t=3s
+" target="_blank"><img src="http://img.youtube.com/vi/uR6G2v_WsRA&list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu&index=54&t=3s/0.jpg" 
+alt="Core Concept of Git" width="240" height="180" border="10" /></a>
 
 ## Working with Local Repository
 
