@@ -246,8 +246,8 @@ This section will demonstrste the most common workflow of git to start a git rep
 
 </div> -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uR6G2v_WsRA&list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu&index=54&t=3s
-" target="_blank"><img src="http://img.youtube.com/vi/uR6G2v_WsRA&list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu&index=54&t=3s/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uR6G2v_WsRA&list=PL7laMxkUL_O4J2CMNmQxpgSo7L1sHNgYu&index=54
+" target="_blank"><img src="http://img.youtube.com/vi/uR6G2v_WsRA/0.jpg" 
 alt="Core Concept of Git" width="240" height="180" border="10" /></a>
 
 ## Working with Local Repository
